@@ -1,0 +1,7 @@
+person = input("write a person \n>")
+verb = input("write a verb \n>")
+place = input("write a place \n>")
+object = input("write an object \n>")
+person2 = input("write another person \n>")
+verb2 = input("write another verb \n> ")
+print("once upon a time " + person + " was " + verb + " in " + place + ". suddendly, " +  person + " found a " + object + " that belonged to " + person2 + ", " + person + " " + verb2 + " to " + person2 + " to give back their  " + object)
