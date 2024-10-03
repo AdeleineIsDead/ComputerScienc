@@ -1,2 +1,1 @@
-entry = input("number")
-print(entry + 10)
+print(null)
