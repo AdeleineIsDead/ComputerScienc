@@ -7,7 +7,7 @@ bug_attack = int(5)
 code_essence = (100)
 null_health = 50
 null_attack = 15
-def start_adventure():#something meta game
+def start_adventure():#something meta game also unfinished
     print("Placeholder because i cant think of anything")
     print("1. Stay at your home") #think of something idiot
     print("2. Enter Visual Studio Swamp")
